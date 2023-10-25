@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### ```Coding Consistency:```
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MainaAlexM&theme=highcontrast&layout=compact")](https://git.io/streak-stats)
+
+### ```Achievements:```
+
+<span align="center">  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=MainaAlexM&margin-w=20&margin-h=15" />
